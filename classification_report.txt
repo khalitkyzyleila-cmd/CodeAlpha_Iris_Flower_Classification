@@ -1,0 +1,11 @@
+Test accuracy: 0.933
+
+                 precision    recall  f1-score   support
+
+    Iris-setosa      1.000     1.000     1.000        10
+Iris-versicolor      0.900     0.900     0.900        10
+ Iris-virginica      0.900     0.900     0.900        10
+
+       accuracy                          0.933        30
+      macro avg      0.933     0.933     0.933        30
+   weighted avg      0.933     0.933     0.933        30
